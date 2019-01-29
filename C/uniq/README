@@ -1,0 +1,9 @@
+Nicholas Baggett
+CPE 357-01
+Assignment 2
+
+This program removes duplicate lines from stdin.
+
+To run this program use ./uniq < input.txt. The command make test will
+pass a file named test.txt to ./uniq and diff the output with the 
+unix uniq.
