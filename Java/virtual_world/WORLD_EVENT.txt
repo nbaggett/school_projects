@@ -1,0 +1,15 @@
+Nicholas Baggett Project 5
+
+1. The event is triggered where the user clicks in the virual world. 
+
+2. When the event is triggered, an ice fortress will spawn surrounded by ice walls. 
+There will be four snowmen who will spawn along with two ice soldiers.
+
+3. The snowmen will seek out the nearest miners and combine themselves with the miners to create a Frozen Miner. The Frozen 
+Miners are unable to move and they change in appearance.
+
+4. The new entities are the snowmen and the ice soldiers. Snowmen behave as explained above and they also leave an icy background image 
+wherever they walk. The ice soldiers will seek out and collect the frozen miners and return them to the ice fortress. The ice fortress also creates 
+more snowmen periodically.
+
+5. This project was mine alone, no partners.

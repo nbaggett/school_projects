@@ -1,0 +1,7 @@
+# cpe203_world
+Much of the files for this virual world were provided to us for our OOP course. However,
+the classes were all in one function file and we had to refactor the code accordingly,
+so all of the classes were written and created by me. We had to add our own functionality to the code as
+well, such as a better pathing strategy for the entities to follow. I implemented the A star algorithm
+for efficiency. This project taught me a lot about classes and how they work together, as well
+as using lambda expressions and comparators in Java.
