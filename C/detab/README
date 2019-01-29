@@ -1,0 +1,10 @@
+Nicholas Baggett
+CPE 357-01
+Assignment 1
+
+This program removes tabs and replaces them with spaces.
+
+To run the detab program, simply ./detab and enter your text on the command line 
+or ./detab < input.txt > output.txt to pass input for tab cleansing.
+
+
