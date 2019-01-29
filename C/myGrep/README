@@ -1,0 +1,2 @@
+This was my introduction into the C programming language. This program searches a file for a given
+word and keeps track of its occurences. It also tracks the longest line.
