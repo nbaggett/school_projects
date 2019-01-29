@@ -1,0 +1,1 @@
+This is Nicholas Baggett's Assignment 4 submission for CPE 202. This assignment utilized queues, linkedlists, and huffmancoding to create a huffman tree and huffman code for each uniquecharacter in a string. I used a recursive inorder search to find characters and generate codes. 
